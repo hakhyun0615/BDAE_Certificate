@@ -1,4 +1,4 @@
-# Big Data Analysis Engineer Certification
+# Big Data Analysis Engineer Certificate
 This repository contains study materials and practice problems for the Big Data Analysis Engineer certification practical exam.
 
 ## Contents
